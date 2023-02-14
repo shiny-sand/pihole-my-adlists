@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/shiny-sand/pihole/main/whitelist-personal.txt
