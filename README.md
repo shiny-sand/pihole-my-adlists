@@ -1,9 +1,12 @@
 # pihole
-list for personal use
-
 In here I have my Pihole adlists.
 
-Both Pihole servers fetch lists outside gravity by using the pihole-updatelists service > https://github.com/jacklul/pihole-updatelists
+Pihole servers fetch lists outside gravity by using the pihole-updatelists service > https://github.com/jacklul/pihole-updatelists
+
+This resolves the following problem.
+pihole-updatelists runs on schedule so all lists are updated once a day. This needs to be done manually in Pihole.
+pihole-updatelists allows me to pull whitelists, which is not possible in stock Pihole.
+
 
 
 ***
