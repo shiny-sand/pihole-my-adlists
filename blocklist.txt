@@ -1,1 +1,11 @@
 cl.k5a.io
+smetrics.aem.playstation.com
+telemetry-console.api.playstation.com
+gstaticadssl.l.google.com
+device-metrics-us-2.amazon.com
+mobile.pipe.aria.microsoft.com
+gs-loc.apple.com
+device-metrics-us.amazon.com
+control2.tvinteractive.tv
+browser.pipe.aria.microsoft.com
+app-measurement.com
