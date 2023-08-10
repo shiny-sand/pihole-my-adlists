@@ -10,8 +10,6 @@ djurslandsbank.dk
 3dsecure.no
 settings-win.data.microsoft.com
 cdn.mbl.is
-
-
 000000.api.binance.com
 000000.dev.api.binance.com
 000000.eu.api.binance.com
