@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/shiny-sand/pihole/main/whitelist-personal.txt
+https://raw.githubusercontent.com/jumpsmm7/GeneratedAdblock/master/Allowed.list
