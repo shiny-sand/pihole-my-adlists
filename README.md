@@ -32,3 +32,4 @@ BLACKLIST_URL=""
 ; Remote list URL containing regex rules for blacklisting
 REGEX_BLACKLIST_URL=""
 </code></pre>
+# Backup-obsidian
