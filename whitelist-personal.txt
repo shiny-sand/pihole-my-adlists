@@ -6,7 +6,6 @@ www.bit.ly
 bit.ly
 ow.ly
 tinyurl.com
-djurslandsbank.dk 
-3dsecure.no
+djurslandsbank.dk
 settings-win.data.microsoft.com
 cdn.mbl.is
